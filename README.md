@@ -34,8 +34,8 @@
 
 ### 📕 Latest Challenges
 
-<!-- CHALLENGES-LIST:START -->
-<!-- CHALLENGES-LIST:END -->
+<!-- FRONTENDMENTOR:START -->
+<!-- FRONTENDMENTOR:END -->
 
 ➡️ [more challenges...](https://codestackr.com)
 
