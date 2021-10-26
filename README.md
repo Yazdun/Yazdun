@@ -12,7 +12,7 @@
 - 📕 I'm currently learning Frontend web development
 - 🔎 I'm looking for other beginners and juniors to collaborate with
 - ⚡ My goal is to become a open source expert in the future
-<br />
+
 
 ### Languages and Tools:
 
