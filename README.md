@@ -9,9 +9,9 @@
 
 #### My main focus is `Javascript`, `React` on frontend and `NodeJS` on backend, I'm passionate about coding and do my best to learn and help others in their journeys along the way !
 
-- 📕 I'm currently learning Frontend web development
-- 🔎 I'm looking for other beginners and juniors to collaborate with
-- ⚡ My goal is to become a open source expert in the future
+- 📚 I'm currently learning Frontend web development
+- 🔍 I'm looking for other beginners and juniors to collaborate with
+- 🚀 My goal is to become a open source expert in the future
 
 
 ### Languages and Tools:
@@ -30,8 +30,6 @@
 <br />
 <br />
 
-
-
 ---
 <br />
 <br />
@@ -42,3 +40,5 @@
 
 <br />
 <br />
+
+
