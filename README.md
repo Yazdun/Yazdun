@@ -2,12 +2,12 @@
 <br />
 
 [![Website](https://img.shields.io/website?label=frontendmentor&style=for-the-badge&url=https://www.frontendmentor.io/profile/Yazdun)](https://www.frontendmentor.io/profile/Yazdun)
-[![Website](https://img.shields.io/website?label=Codewar&style=for-the-badge&url=https://www.codewars.com/users/Yazdun)](https://www.codewars.com/users/Yazdun)
+[![Website](https://img.shields.io/website?label=Codewars&style=for-the-badge&url=https://www.codewars.com/users/Yazdun)](https://www.codewars.com/users/Yazdun)
 <br />
 <br />
 
 
-### My main focus is `Javascript`, `React` on frontend and `NodeJS` on backend, I'm passionate about coding and do my best to learn and help others in their journeys along the way !
+#### My main focus is `Javascript`, `React` on frontend and `NodeJS` on backend, I'm passionate about coding and do my best to learn and help others in their journeys along the way !
 <br />
 
 
@@ -24,8 +24,6 @@
 
 
 ### Languages and Tools:
-<br />
-
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
