@@ -1,8 +1,8 @@
 ### Hello my fellow developers ! I'm Yazdun 
 <br />
 
-[![Website](https://img.shields.io/website?label=frontendmentor&style=for-the-badge&url=https://www.frontendmentor.io/profile/Yazdun)](https://www.frontendmentor.io/profile/Yazdun)
-[![Website](https://img.shields.io/website?label=Codewars&style=for-the-badge&url=https://www.codewars.com/users/Yazdun)](https://www.codewars.com/users/Yazdun)
+[![Frontendmentor URL](https://img.shields.io/twitter/url?color=%234cc9f0&label=frontend%20mentor&logo=frontendmentor&style=for-the-badge&url=https%3A%2F%2Fwww.frontendmentor.io%2Fprofile%2FYazdun)](https://www.frontendmentor.io/profile/Yazdun)
+[![Twitter URL](https://img.shields.io/twitter/url?color=critical&label=codewars&logo=codewars&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2FYazdun)](https://www.codewars.com/users/Yazdun)
 <br />
 <br />
 
