@@ -8,8 +8,6 @@
 
 </div>
 
-<br />
-
 #### My main focus is `Javascript` 😍. `React.JS` on frontend and `Node.JS` + `Express.JS` on backend, I'm passionate about coding and do my best to learn and help others in their journeys along the way !
 
 - 📚 I'm currently expanding my knowledge on my beloved Javascript !
