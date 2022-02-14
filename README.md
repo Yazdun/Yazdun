@@ -2,7 +2,7 @@
 
 <img align="center" alt="HTML5" width="200px" src="./1.svg" />
 
-<a href="https://yazdun.com/" target="_blank">⭐️Checkout my Portfolio⭐️</a>
+[⭐️Checkout my Portfolio⭐️](https://yazdun.com/)
 
 ## Hello my fellow developers ! I'm Yazdun
 
