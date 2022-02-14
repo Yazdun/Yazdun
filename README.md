@@ -2,9 +2,9 @@
 
 <img align="center" alt="HTML5" width="200px" src="./1.svg" />
 
-## Hello my fellow developers ! I'm Yazdun
-
 [⭐️Checkout my Portfolio⭐️](https://yazdun.com/)
+
+## Hello my fellow developers ! I'm Yazdun
 
 </div>
 
@@ -16,17 +16,13 @@
 - 🔍 I'm looking for other people to collaborate with.
 - 🚀 My main goal is to become an open source developer in the near future.
 
-<br />
-
 ---
-
-<br />
 
 <div align="center">
 
-## Languages and Tools
-
 <img  alt="HTML5" width="200px" src="./2.svg" />
+
+## Languages and Tools
 
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -38,11 +34,8 @@
 
 </div>
 
-<br />
-
 ---
 
-<br />
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yazdun&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
